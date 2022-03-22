@@ -1,0 +1,12 @@
+{
+    "exchange": {
+        "name": "binance",
+        "key": "e6kHyTtl5fIIkwwOIiA0K9PcrqgdZw9tRDQSy7WgVFHdtQIumfau8Pz2emkNw8Nj",
+        "secret": "VkcbzJZCwmpcJlT2pwULqEE5oJqlUa3E0W4cPQKds0S1oQPpQ66l3ZXRBr0YBCVO"
+    },
+    "telegram": {
+        "enabled": true,
+        "token": "5232078745:AAExJJ7dBjRsFBv_sOXiWMzIu_7FMkxbGuo",
+        "chat_id": "737617194"
+    }
+}

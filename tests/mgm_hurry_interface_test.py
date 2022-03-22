@@ -1,0 +1,1 @@
+/home/mos/monigo/MoniGoMani/Freqtrade-MGM/monigomani/tests/mgm_hurry_interface_test.py
